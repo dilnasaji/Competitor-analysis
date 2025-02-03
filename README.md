@@ -42,7 +42,7 @@ LeaseEase is a startup rental company that needed our help in gathering competit
  
   - ## Methodology
 1. Data Collection: Scraped competitor websites, Trustpilot, and industry reports.
-2. Exploratory Data Analysis (EDA): Identified trends using Python.
-3. Data Cleaning: Standardized and structured raw data.(XLookup(Excel))
+2. Data Cleaning: Standardized and structured raw data.(XLookup(Excel))
+3. Exploratory Data Analysis (EDA): Identified trends using Python.
 4. Visualization: Used charts and graphs to highlight key insights.
 
